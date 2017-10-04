@@ -1,0 +1,16 @@
+body {
+  font-family: 'Arial';
+}
+
+.btn {
+  border-radius: 10px;
+  margin: 5px;
+
+  &--primary {
+    border: 1px solid blue;
+  }
+
+  &--secondary {
+    border: 1px solid red;
+  }
+}
